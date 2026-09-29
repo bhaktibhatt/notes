@@ -1,0 +1,11 @@
+- login
+- users
+- roles
+- permissions
+- workflows
+- CRUD functions
+- APIs
+- files
+- password reset
+- sessions
+- administrative functionality
