@@ -3,6 +3,7 @@ Browser → Burp → Proxy → HTTP history → identify request → Repeater �
 broswer firefox for testing
 CA cert added
 [[https://medium.com/@maram.raboudi/sniff-intercept-exploit-a-guide-to-web-penetration-testing-with-burp-suite-6be081e66220]]
+
 Burp’s **Proxy tool** then:
 
 1. **Captures requests** sent by your browser.
