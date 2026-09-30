@@ -10,8 +10,8 @@ GPT -
 4. Look for parameters related to:
     - `role`
     - `permission`
-    - `privilege`
-    - `userType`
+    - privilege
+    - userType
     - `isAdmin`
     - `accessLevel`
     - `group`
@@ -41,7 +41,7 @@ Higher-privileged functionality works?
 
 ### Important mindset
 
-**Don't focus on specific role names. Focus on the authorization rule.**
+Don't focus on specific role names. **Focus on the authorization rule.**
 
 Ask:
 
