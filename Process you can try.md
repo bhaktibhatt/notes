@@ -45,7 +45,7 @@ Don't focus on specific role names. **Focus on the authorization rule.**
 
 Ask:
 
-> "Can this user assign/change a privilege that they should not be allowed to control?"
+> "Can this user **assign/change** a **privilege** that they should not be allowed to control?"
 
 ### Evidence
 
