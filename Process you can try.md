@@ -1,8 +1,7 @@
-Role Manipulation and Privelege escalation 
+# Role Manipulation and Privelege escalation 
 Check if user can modify their own or other user's role/permission/privilege or other fields
-
 GPT -
-### How to test in a real application
+## How to test in a real application
 
 1. Identify different **roles/privilege levels** in the application.
 2. Create/use authorized test accounts with different roles.
@@ -21,7 +20,7 @@ GPT -
 7. Verify the actual state after the request — don't rely only on `200 OK`.
 8. Re-login / refresh / make a privileged request to confirm whether the new permission actually works.
 
-### What you're trying to prove
+## What you're trying to prove
 
 ```
 Normal user
