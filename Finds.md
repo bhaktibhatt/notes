@@ -16,4 +16,5 @@
    POST /api/messages HTTP/1.1
    Host: 192.168.1.43:5000
 
-8. 
+8. file extension bypass -
+   only png is allowed but 
