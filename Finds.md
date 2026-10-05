@@ -8,4 +8,6 @@
 
 5. verbose error
 
-6. Html injection in patient records 
+6. Html injection in patient records -
+   PUT /api/patients/3 HTTP/1.1
+   Host: 192.168.1.43:5000
