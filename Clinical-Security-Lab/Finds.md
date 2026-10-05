@@ -21,3 +21,4 @@
    POST /api/uploads HTTP/1.1
    Host: 192.168.1.43:5000
 
+9. Weak password policy
