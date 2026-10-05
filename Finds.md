@@ -12,4 +12,4 @@
    PUT /api/patients/3 HTTP/1.1
    Host: 192.168.1.43:5000
 
-7.
+7. Stored XSS on message and Report 
