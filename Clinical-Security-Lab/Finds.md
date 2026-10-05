@@ -16,5 +16,7 @@
    POST /api/messages HTTP/1.1
    Host: 192.168.1.43:5000
 
-8. file extension bypass -
-   only png is allowed but 
+8. file extension bypass  (File Upload)-
+   only png is allowed but it can be bypassed. 
+   POST /api/uploads HTTP/1.1
+   Host: 192.168.1.43:5000
