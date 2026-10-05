@@ -2,7 +2,7 @@
 1. Patient Record IDOR/BOLA  
 2. Patient Search SQL Injection  
 3. Client-Controlled Role Privilege Escalation  
-4. Stored XSS in Reports and Audit Events  
+4. Stored XSS in Reports and Audit Events  and message
 5. Reflected XSS in Patient Search  
 6. Missing CSRF Protection  
 7. Unrestricted SSRF  
