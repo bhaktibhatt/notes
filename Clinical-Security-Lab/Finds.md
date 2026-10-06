@@ -22,3 +22,7 @@
    Host: 192.168.1.43:5000
 
 9. Weak password policy
+
+10. Race Condition - created duplicates of appointments to forcefully upload
+
+11. Rate limiting
