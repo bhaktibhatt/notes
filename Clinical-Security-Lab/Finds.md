@@ -23,6 +23,6 @@
 
 9. Weak password policy
 
-10. Race Condition - created duplicates of appointments to forcefully upload
+10. Race Condition - created duplicates of appointments to forcefully upload duplicate appointment.
 
-11. Rate limiting
+11. Rate limiting - 
