@@ -25,4 +25,6 @@
 
 10. Race Condition - created duplicates of appointments to forcefully upload duplicate appointment.
 
-11. Rate limiting - 
+11. Rate limiting - no rate limiting in message creation 
+OST /api/messages HTTP/1.1
+	    Host: 192.168.1.43:5000
