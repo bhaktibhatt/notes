@@ -28,4 +28,7 @@
 11. Rate limiting - no rate limiting in message creation 
     POST /api/messages HTTP/1.1
     Host: 192.168.1.43:5000
-12. MIME 
+
+12. Unsafe Upload MIME and Inline Content Handling  
+
+13. Known Flask Session Signing Secret 
