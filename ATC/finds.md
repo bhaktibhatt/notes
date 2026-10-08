@@ -29,3 +29,7 @@ Low — unrelated contextual information is disclosed to the user and may indica
 ### Recommendation
 
 Ensure that responses contain only information relevant to the user's request and prevent unrelated internal or contextual information from being exposed.
+
+password saved in clear text
+session reusable
+weak password 
