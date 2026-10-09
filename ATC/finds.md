@@ -36,5 +36,5 @@ weak password
 CORS
 
 functional vulnerability
-
-https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents
+user test2 
+manager - https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents
