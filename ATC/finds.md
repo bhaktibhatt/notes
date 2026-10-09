@@ -37,4 +37,7 @@ CORS
 
 functional vulnerability
 user test2 https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents uploads a document and send it for review.
-manager - https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents the manager can approve or reject, the draft uploaded by test2, the reject message should be visible to test2 but it is not where is the msg stored is also not 
+manager - https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents the manager can approve or reject, the draft uploaded by test2, the reject message should be visible to test2 but it is not where is the msg stored is also not clear.
+
+
+the manager ko ek certain enginerr assign hone chiye 
