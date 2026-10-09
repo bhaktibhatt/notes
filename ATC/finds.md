@@ -36,5 +36,5 @@ weak password
 CORS
 
 functional vulnerability
-user test2 https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents uploads a document and send it for review, 
-manager - https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents
+user test2 https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents uploads a document and send it for review.
+manager - https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents the manager can reject the user 
