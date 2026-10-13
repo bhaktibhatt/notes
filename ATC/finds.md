@@ -40,6 +40,7 @@ user test2 https://atc.hackersera.com/dashboard/organisation/csms/process-docume
 manager - https://atc.hackersera.com/dashboard/organisation/csms/process-documents?tab=documents the manager can approve or reject, the draft uploaded by test2, the reject message should be visible to test2 but it is not where is the msg stored is also not clear.
 
 
+api/user/4 - admin data exposed, email, username, name etc
 
 
 
