@@ -40,4 +40,5 @@ The **.xz** file extension is a ==lossless data compression format== that typica
 adding frida to the rooted phone -> adb push frida-server-17.27.6-android-arm64 /data/local/tmp/frida-server
 
 
-giving frida-server permission in phone  -> 
+giving frida-server permission in phone  -> adb shell "chmod 755 /data/local/tmp/frida-server"
+highest privileages  -> adb shell "su -c '/data/local/tmp/frida-server &'"
