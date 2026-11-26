@@ -33,3 +33,6 @@ Decompile matlab -> converting the byte code into java code
 
 
 actual app compile kaise hoti hai? -> Java/Kotlin Source code convert hota hai bytecode main -> which is converted to DEX (ek executable files) and phir uska Android Package banta hai 
+
+
+The **.xz** file extension is a ==lossless data compression format== that typically uses the **LZMA2** algorithm to shrink file sizes.
