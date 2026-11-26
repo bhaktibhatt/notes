@@ -36,3 +36,8 @@ actual app compile kaise hoti hai? -> Java/Kotlin Source code convert hota hai b
 
 
 The **.xz** file extension is a ==lossless data compression format== that typically uses the **LZMA2** algorithm to shrink file sizes.
+
+adding frida to the rooted phone -> adb push frida-server-17.27.6-android-arm64 /data/local/tmp/frida-server
+
+
+giving frida-server permission in phone  -> 
