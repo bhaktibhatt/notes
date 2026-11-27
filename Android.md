@@ -47,3 +47,5 @@ frida -U -n "Bisleri@Doorstep"
 
 activity manager
 package manager
+
+trusted execution environment 
