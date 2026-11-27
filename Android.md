@@ -44,3 +44,6 @@ giving frida-server permission in phone  -> adb shell "chmod 755 /data/local/tmp
 highest privileages  -> adb shell "su -c '/data/local/tmp/frida-server &'"
 
 frida -U -n "Bisleri@Doorstep"
+
+activity manager
+package manager
