@@ -27,10 +27,9 @@ and vo downloaded apk ko mobsf me upload kr ke dekh and it gave vuls so we just 
 abhi main goal hoga vulnerabilities ko samjhna and vo vulnerabilities ko achese understand krna 
 
 
-jadx -> decompile krta hai 
+jadx -> decompile krta hai bhai tune jadx ka command kyu nahi likha idhar
 
 Decompile matlab -> converting the byte code into java code
-
 
 actual app compile kaise hoti hai? -> Java/Kotlin Source code convert hota hai bytecode main -> which is converted to DEX (ek executable files) and phir uska Android Package banta hai 
 
